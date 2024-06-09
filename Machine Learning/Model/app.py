@@ -8,7 +8,7 @@ import io
 app = Flask(__name__)
 
 # Load your model
-model = load_model("vgg16_model_v4.h5")
+model = load_model("modelVGG.h5")
 
 # Define the class names from 'A' to 'Z'
 class_names = [chr(i) for i in range(65, 91)]
