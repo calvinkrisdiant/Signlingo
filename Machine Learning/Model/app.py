@@ -13,7 +13,7 @@ model = load_model("modelVGG.h5")
 # Define the class names from 'A' to 'Z'
 class_names = [chr(i) for i in range(65, 91)]
 
-def prepare_image(image, target_size=(224, 224)):
+def prepare_image(image, target_size=(64, 64)):
     # Convert the image to a PIL format
     if image.mode != 'RGB':
         image = image.convert('RGB')
