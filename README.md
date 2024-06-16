@@ -18,7 +18,7 @@ Signlingo adalah aplikasi untuk belajar bahasa isyarat, dikembangkan sebagai pro
 
 ## Tech Stack
 
-![Tech Stack]([https://raw.githubusercontent.com/calvinkrisdiant/Signlingo/main/docs/tech%20stack.png](https://github.com/calvinkrisdiant/Signlingo/blob/0cff643bc6fce07a3ea88574fd8e4c7aff986dcc/tech%20stack.png))
+![Tech Stack](https://github.com/calvinkrisdiant/Signlingo/blob/2d10efe3c965581a34e4e32f51d0d6036e14ce52/tech-stack.png)
 
 ## Dataset
 
