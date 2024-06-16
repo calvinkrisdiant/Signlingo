@@ -1,7 +1,7 @@
 ---
 # Signlingo - Aplikasi Belajar Bahasa Isyarat
 
-![Logo Signlingo](Logo-Signlingo.png)
+![logo app](https://github.com/calvinkrisdiant/Signlingo/blob/6c5e7ceb1d23a4918bdf33c8e93c595892a16fce/Logo-%20Signlingo.png)
 
 
 Signlingo adalah aplikasi untuk belajar bahasa isyarat, dikembangkan sebagai proyek akhir atau capstone dari tim C241-PS420 untuk program Bangkit 2024. Aplikasi ini bertujuan untuk memfasilitasi pembelajaran bahasa isyarat secara interaktif dan menyenangkan.
