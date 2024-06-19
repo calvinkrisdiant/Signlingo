@@ -28,6 +28,13 @@ Signlingo adalah aplikasi untuk belajar bahasa isyarat, dikembangkan sebagai pro
 
 Prototipe aplikasi dapat dilihat [di sini](https://www.figma.com/file/prototype-link).
 
+## Cloud Computing Learning Path
+### Cloud Architecture
+1. API Register & Login <br>
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/e6ea0b92872461f8f7bc52ae56be55fe9b1c898c/Cloud%20Computing/Login-register.jpg" alt="4" width="auto" height="300"> <br><br>
+2. API Prediction <br>
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/e6ea0b92872461f8f7bc52ae56be55fe9b1c898c/Cloud%20Computing/Prediction.jpg" alt="4" width="auto" height="300"> <br><br>
+
 ## Instalasi
 
 Untuk menjalankan aplikasi ini, pastikan Anda telah melakukan instalasi semua dependensi yang diperlukan dari file `requirements.txt`.
