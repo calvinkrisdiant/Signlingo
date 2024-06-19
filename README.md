@@ -28,6 +28,10 @@ Signlingo is an application designed for learning sign language, developed as th
 
 The application prototype can be viewed [here]([https://www.figma.com/file/prototype-link](https://www.figma.com/design/sIQCAepbc4Z4DLoxxrLxob/SignLingo-(Capstone-Project)?node-id=0-1&t=xI0Z9fvWafH3Xbnw-1)).
 
+## Mobile Development Learning Path
+
+## Machine Learning Path
+
 ## Cloud Computing Learning Path
 
 ### Steps To Deploy Backend API Login Register To Cloud run
@@ -60,7 +64,7 @@ The application prototype can be viewed [here]([https://www.figma.com/file/proto
 <img src="https://github.com/calvinkrisdiant/Signlingo/blob/e6ea0b92872461f8f7bc52ae56be55fe9b1c898c/Cloud%20Computing/Login-register.jpg" alt="4" width="auto" height="300"> <br><br>
 2. API Prediction <br>
 <img src="https://github.com/calvinkrisdiant/Signlingo/blob/e6ea0b92872461f8f7bc52ae56be55fe9b1c898c/Cloud%20Computing/Prediction.jpg" alt="4" width="auto" height="300"> <br><br>
-2. API Prediction <br>
+2. Signlingo Landing Page <br>
 <img src="https://github.com/calvinkrisdiant/Signlingo/blob/7bb2f5bb187fcee02dbf16016acd97955eac7699/Cloud%20Computing/Landing-Page.png" alt="4" width="auto" height="300"> <br><br>
 
 ### Featured Technologies
