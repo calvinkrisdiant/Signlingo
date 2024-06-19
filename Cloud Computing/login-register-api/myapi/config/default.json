@@ -1,0 +1,11 @@
+{
+    "dbConfig": {
+      "user": "root",
+      "password": "capstone5758",
+      "database": "myapp",
+      "host": "localhost",
+      "connectionName": "backend-auth-425012:asia-southeast2:capstone5758"
+    },
+    "jwtSecret": "bdebe7f5-2e29-4f62-a7ea-68f870b324c7"
+  }
+  
