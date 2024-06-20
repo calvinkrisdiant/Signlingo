@@ -56,7 +56,7 @@ The model building is in [here](https://github.com/calvinkrisdiant/Signlingo/blo
 13. Export to keras model with format h5
 
 ### Model architecture
-<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/stock/modelNEW.v.1.h5_page-0001.jpg" alt="5" width="auto" height="300"> 
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/stock/modelNEW.v.1.h5_page-0001.jpg" alt="5" width="auto" height="900"> 
 <br>
 
 ### Model Accuracy
