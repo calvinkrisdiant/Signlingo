@@ -50,14 +50,16 @@ The model building is in [here](https://github.com/calvinkrisdiant/Signlingo/blo
 7. Encodes labels into numerical format
 8. Splits data into training and test sets
 9. Training set (80%) and test set (20%)
-10. Build the model with the architecture below
-11. Evaluate model performance on test set
-12. Tuning the hyperparameter and iterating the process based on the results
-13. Export to keras model with format h5
+
 
 ### Model architecture
 <img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/stock/modelNEW.v.1.h5_page-0001.jpg" alt="5" width="auto" height="900"> 
 <br>
+
+### Model training
+1. Build the model with the architecture above
+2. Evaluate model performance on test set
+3. Tuning the hyperparameter and iterating the process based on the results
 
 ### Model Accuracy
 The model reached 97% accuracy on the training set and 94% accuracy on the test set
@@ -73,7 +75,9 @@ The model reached 97% accuracy on the training set and 94% accuracy on the test 
 <br>
 
 ### Model Deployment
-using Keras model format and Flask<br>
+1. Export to keras model with format h5
+2. Load the model ad then use Flask to deploy
+ 
 ```model.save('final_model.h5')```<br>
 [Flask deploy](https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/app.py)
 
