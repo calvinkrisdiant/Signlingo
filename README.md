@@ -115,4 +115,10 @@ The model reached 97% accuracy on the training set and 94% accuracy on the test 
 
 ## Instalasi
 
+numpy==1.26.4
+tensorFlow==.16.1
+keras==3.3.3
+sklearn==1.5.0
+matplotlib==3.9.0
 Untuk menjalankan aplikasi ini, pastikan Anda telah melakukan instalasi semua dependensi yang diperlukan.
+
