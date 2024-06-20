@@ -74,7 +74,7 @@ The model reached 97% accuracy on the training set and 94% accuracy on the test 
 
 ### Model Deployment
 using Keras model format and Flask<br>
-`model.save('final_model.h5')`<br>
+```model.save('final_model.h5')```<br>
 [Flask deploy](https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/app.py)
 
 ## Cloud Computing Learning Path
