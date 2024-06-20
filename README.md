@@ -32,6 +32,46 @@ The application prototype can be viewed [here]([https://www.figma.com/file/proto
 
 ## Machine Learning Path
 
+The model building is in [here](https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/bisindo_final.ipynb)
+### Requirements to build this model
+1. NumPy version: 1.26.4
+2. TensorFlow version: 2.16.1
+3. Keras version: 3.3.3
+4. sklearn version: 1.5.0
+5. matplotlib version: 3.9.0
+
+### Pre-Processing
+1. Clone the GitHub link dataset above
+2. Loads images from multiple directories
+3. Combines them into a single dataset (X)
+4. Collect corresponding labels (y) from the folder name of each file
+5. Resize each image to a standard size (64x64 pixels)
+6. Converts images to numerical arrays and normalizes pixel values (0 to 1)
+7. Encodes labels into numerical format
+8. Splits data into training and test sets
+9. Training set (80%) and test set (20%)
+10. Build the model with the architecture below
+11. Evaluate model performance on test set
+12. Tuning the hyperparameter and iterating the process based on the results
+13. Export to keras model with format h5
+
+### Model architecture
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/stock/modelNEW.v.1.h5_page-0001.jpg" alt="5" width="auto" height="300"> 
+<br>
+
+### Model Accuracy
+The model reached 97% accuracy on the training set and 94% accuracy on the test set
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/training_plot.png" alt="6" width="auto" height="300"> 
+<br>
+
+### Confusion Matrix
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/conf_matrix.png" alt="7" width="auto" height="300"> 
+<br>
+
+### Sample of model prediction on the test set
+<img src="https://github.com/calvinkrisdiant/Signlingo/blob/main/Machine%20Learning/Model/X_test.png" alt="8" width="auto" height="300"> 
+<br>
+
 ## Cloud Computing Learning Path
 
 ### Steps To Deploy Backend API Login Register To Cloud run
