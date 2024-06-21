@@ -26,7 +26,7 @@ Signlingo is an application designed for learning sign language, developed as th
 
 ## Prototype
 
-The application prototype can be viewed [here]([https://www.figma.com/file/prototype-link](https://www.figma.com/design/sIQCAepbc4Z4DLoxxrLxob/SignLingo-(Capstone-Project)?node-id=0-1&t=xI0Z9fvWafH3Xbnw-1)).
+The application prototype can be viewed [here](https://www.figma.com/design/sIQCAepbc4Z4DLoxxrLxob/SignLingo-(Capstone-Project)?node-id=0-1&t=xI0Z9fvWafH3Xbnw-1).
 
 ## Mobile Development Learning Path
 
