@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SignLingo</string>
+    <string name="app_logo">Logo SignLingo</string>
+    <string name="hi_there">Hi, there!</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="or">or</string>
+    <string name="welcome_back">Welcome back!</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="show_password">Show Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="welcome">Welcome!</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="username">Username</string>
+    <string name="profile">Profile</string>
+    <string name="settingsicon">SettingsIcon</string>
+    <string name="profilepicture">ProfilePicture</string>
+    <string name="elsa_anna">Elsa Anna</string>
+    <string name="gmail">elsaanna16@gmail.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="basic_information">Basic information</string>
+    <string name="number">+62 845-3974-6647</string>
+    <string name="birth">January 16, 2003</string>
+    <string name="gender">Female</string>
+    <string name="others">Others</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="log_out">Log out</string>
+</resources>
